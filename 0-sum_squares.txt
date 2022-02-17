@@ -1,0 +1,7 @@
+sum = 0
+i = 0 
+nums [] = INPUT ("Enter numbers")
+FOR i < nums.length
+	RETURN sum = sum + (nums[i]*nums[i])
+	i++
+PRINT sum
